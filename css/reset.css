@@ -1,0 +1,23 @@
+:root{
+  --yellow: #dca500;
+  --yellow-light: #ffbf00;
+  --grey: #333;
+  --white: #FAFAFA;
+  --radius: 0.3rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: url('../img/bg.jpg');
+  padding: 2%;
+}
+
+h1, h2, span, p {
+  font-family: 'Nunito', sans-serif;
+  color: var(--white);
+}
