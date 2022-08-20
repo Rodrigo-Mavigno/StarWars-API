@@ -4,7 +4,7 @@ header h1 {
   font-weight: 200;
   font-size: 4em;
   text-shadow: 0 0 0.3em var(--yellow-light);
-  cursor: pointer;  
+   
 }
 
 /* CARDS */

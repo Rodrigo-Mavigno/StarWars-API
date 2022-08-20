@@ -19,5 +19,5 @@ body {
 
 h1, h2, span, p {
   font-family: 'Nunito', sans-serif;
-  color: var(--white);
+  color: var(--yellow-light);
 }
